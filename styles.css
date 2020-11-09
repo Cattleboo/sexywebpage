@@ -1,0 +1,45 @@
+body{
+  background: url(file:///home/sebastian/Desktop/webpage/background.jpg) no-repeat center fixed black;
+  background-size: cover;
+}
+
+.cool-box-title{
+  width: 80vw;
+  height: 8vw;
+  border-style: groove;
+  border-radius: 5px;
+  border-color: black;
+  background: white;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  padding-top: 4vw;
+}
+
+.cool-box-content{
+  width: 80vw;
+  height: 120vw;
+  border-style: groove;
+  border-radius: 5px;
+  border-color: black;
+  background: white;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+  padding-top: 2vw;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#furry-picture{
+  width: 50vw;
+  height: 50vw;
+}
+
+#very-big-font{
+  font-size: 5vw;
+}
+
+#content-font{
+  font-size: 2vw;
+}
